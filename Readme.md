@@ -1,6 +1,6 @@
 # Python REST API Client Bootstrapper
 
-One Paragraph of project description goes here
+This is a bootstrapper for developing a Python REST API Client.
 
 ## Getting Started
 
