@@ -11,3 +11,5 @@ Tools/
 *.dll
 .nonadmin
 *.pyd
+*.exe
+*.pdb
