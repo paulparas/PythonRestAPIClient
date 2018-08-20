@@ -1,0 +1,13 @@
+DLLs/
+Library/
+conda-meta/
+cx_Oracle-doc/
+include/
+Lib/
+libs/
+Scripts/
+tcl/
+Tools/
+*.dll
+.nonadmin
+*.pyd
