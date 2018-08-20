@@ -7,11 +7,14 @@ This is a bootstrapper for developing a Python REST API Client.
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
 ### Prerequisites
+*Python
 
-Python
-Anaconda
-requests=2.19.1=py37_0
-cx_oracle=6.4.1=py37h2fa13f4_0
+*Anaconda
+
+*requests=2.19.1=py37_0
+
+*cx_oracle=6.4.1=py37h2fa13f4_0
+
 
 ### Installing
 
@@ -20,17 +23,12 @@ https://stackoverflow.com/questions/46600837/not-able-to-install-python3-on-aix-
 ## Running the tests
 
 
-
-### Break down into end to end tests
-
-
-### And coding style tests
-
-
 ## Deployment
 
 
+
 ## Built With
+
 
 
 ## Contributing
@@ -38,6 +36,7 @@ https://stackoverflow.com/questions/46600837/not-able-to-install-python3-on-aix-
 
 
 ## Versioning
+
 
 
 ## Authors
